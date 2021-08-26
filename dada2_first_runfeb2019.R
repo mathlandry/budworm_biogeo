@@ -108,3 +108,7 @@ taxa <- assignTaxonomy(seqtab.nochim, "/mnt/storage/mathieu/runfeb2019_DADA2/SIL
 taxa.print <- taxa # Removing sequence rownames for display only
 rownames(taxa.print) <- NULL
 head(taxa.print)
+
+#write output tables 
+write.csv(seqtab.nochim, "community_DADA2.csv")
+write.csv(taxa, "taxonomy_DADA2.csv")
