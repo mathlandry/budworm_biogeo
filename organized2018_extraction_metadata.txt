@@ -1,0 +1,271 @@
+ID	Dev._Stage	Timepoint	Site	Date	Tree_spec.	Tree_Numb	Tree_ID	Defoliation_level	Sample	Latitude	Longitude	Dposcontrol_extraction_ID	Dposcontrol_extraction_kit	Notes	Date_of_extraction	Negative
+N1	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	N1	Kit1	negcontrol	23/04/18	N1
+N10	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	N10	Kit3	negcontrol	23/07/18	N10
+N11	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	N11	Kit3	negcontrol	1/8/2018	N11
+N12	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	N12	Kit3	negcontrol	1/8/2018	N12
+N3	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	N3	Kit1	negcontrol	17/07/18	N3
+N4	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	N4	Kit1	negcontrol	17/07/18	N4
+N5	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	N5	Kit2	negcontrol	18/07/18	N5
+N6	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	N6	Kit2	negcontrol	18/07/18	N6
+N7	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	N7	Kit2	negcontrol	20/07/18	N7
+N8	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	N8	Kit2	negcontrol	20/07/18	N8
+N9	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	negcontrol	N9	Kit3	negcontrol	23/07/18	N9
+NegFor10	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol
+NegFor11	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol
+NegFor12	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol
+NegFor2	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol
+NegFor3	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol
+NegFor4	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol
+NegFor5	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol
+NegFor6	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol
+NegFor7	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol
+NegFor8	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol
+NegFor9	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol	pcrnegcontrol
+PosFor1	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+PosFor10	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+PosFor11	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+PosFor12	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+PosFor2	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+PosFor3	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+PosFor4	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+PosFor5	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+PosFor6	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+PosFor7	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+PosFor8	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+PosFor9	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol	poscontrol
+a02	L6	2	NL3	3/7/2015	Spruce	Bf2	NL3_Bf2	70	A	53.33703	-60.19949	a02	Kit1	59	23/04/18	N1
+a03	L6	2	NL5	9/7/2015	Balsam_fir	Spr2	NL5_Spr2	10	A	53.28057	-60.62067	a03	Kit1	149	23/04/18	N1
+a04	L6	2	QT1	6/24/2015	Spruce	Bf1	QT1_Bf1	25	A	48.19458336	-67.27085	a04	Kit1	125	23/04/18	N1
+a05	L6	2	QT1	6/24/2015	Balsam_fir	Spr3	QT1_Spr3	5	A	48.19458336	-67.27085	a05	Kit1	152	23/04/18	N1
+a07	L6	2	QT2	6/18/2015	Balsam_fir	Spr1	QT2_Spr1	15	A	48.28358333	-67.47431668	a07	Kit1	176	23/04/18	N1
+a08	L6	2	QT2	6/18/2015	Spruce	Bf3	QT2_Bf3	15	A	48.28358333	-67.47431668	a08	Kit1	297	23/04/18	N1
+a11	L6	2	QT3	6/18/2015	Spruce	Bf2	QT3_Bf2	5	A	48.24339998	-67.46229996	a11	Kit1		23/04/18	N1
+a12	L6	2	QC1	6/18/2015	Balsam_fir	Spr3	QC1_Spr3	5	A	48.19141667	-67.26413333	a12	Kit1		23/04/18	N1
+a13	L6	2	QC1	6/18/2015	Balsam_fir	Spr4	QC1_Spr4	95	A	48.19141667	-67.26413333	a13	Kit1		23/04/18	N1
+a14	L6	2	QC2	6/18/2015	Balsam_fir	Spr1	QC2_Spr1	45	A	48.2852333	-67.42145	a14	Kit1		23/04/18	N1
+a15	L6	2	QC3	6/18/2015	Balsam_fir	Spr2	QC3_Spr2	45	A	48.2680333	-67.44481665	a15	Kit1		23/04/18	N1
+a16	L6	2	QC3	6/18/2015	Spruce	Bf1	QC3_Bf1	5	A	48.2680333	-67.44481665	a16	Kit1		16/07/18	N2
+a17	L6	2	QC3	6/18/2015	Spruce	Bf2	QC3_Bf2	65	A	48.2680333	-67.44481665	a17	Kit1		16/07/18	N2
+a18	L6	2	QC3	6/18/2015	Spruce	Bf3	QC3_Bf3	5	A	48.2680333	-67.44481665	a18	Kit1		16/07/18	N2
+a19	L6	2	NL1	30/06/2015	Spruce	Bf1	NL1_Bf1	30	A	53.30695	-60.17443	a19	Kit1		16/07/18	N2
+a20	L6	2	NL3	3/7/2015	Balsam_fir	Spr1	NL3_Spr1	70	A	53.33703	-60.19949	a20	Kit1		16/07/18	N2
+a21	L6	2	NL3	3/7/2015	Spruce	Bf1	NL3_Bf1	70	A	53.33703	-60.19949	a21	Kit1		16/07/18	N2
+a22	L6	2	NL4	3/7/2015	Spruce	Bf1	NL4_Bf1	50	A	53.27735	-60.49179	a22	Kit1		16/07/18	N2
+a23	L6	2	E1	7/11/2015	Balsam_fir	Spr3	E1_Spr3	60	A	49.351164	-67.834043	a23	Kit1		16/07/18	N2
+a24	L6	2	E1	7/11/2015	Spruce	Bf3	E1_Bf3	65	A	49.351164	-67.834043	a24	Kit1		16/07/18	N2
+a25	L6	2	T001	7/5/2015	Balsam_fir	Spr1	T001_Spr1	60	A	48.959729	-69.192473	a25	Kit1		16/07/18	N2
+a26	L6	2	T001	7/5/2015	Balsam_fir	Spr2	T001_Spr2	5	A	48.959729	-69.192473	a26	Kit1		16/07/18	N2
+a27	L6	2	T001	7/5/2015	Balsam_fir	Spr3	T001_Spr3	25	A	48.959729	-69.192473	a27	Kit1		16/07/18	N2
+a28	L6	2	T001	7/5/2015	Spruce	Bf1	T001_Bf1	50	A	48.959729	-69.192473	a28	Kit1		16/07/18	N2
+a29	L6	2	T002	7/5/2015	Balsam_fir	Spr2	T002_Spr2	25	A	49.282723	-69.530557	a29	Kit1		16/07/18	N2
+a30	L6	2	T002	7/5/2015	Balsam_fir	Spr3	T002_Spr3	30	A	49.282723	-69.530557	a30	Kit1		16/07/18	N2
+a31	L6	2	T002	7/5/2015	Spruce	Bf1	T002_Bf1	40	A	49.282723	-69.530557	a31	Kit1		16/07/18	N2
+a32	L6	2	T003	7/5/2015	Balsam_fir	Spr2	T003_Spr2	15	A	49.645677	-69.83582	a32	Kit1	maybe combined with 33	16/07/18	N2
+a33	L6	2	T003	7/5/2015	Spruce	Bf2	T003_Bf2	5	A	49.645677	-69.83582	a33	Kit1	maybe combined with 32	16/07/18	N2
+a34	L6	2	T006X	7/17/2015	Balsam_fir	Spr2	T006X_Spr2	5	A	49.538392	-67.488708	a34	Kit1		16/07/18	N2
+a35	L6	2	T006X	7/17/2015	Spruce	Bf2	T006X_Bf2	3	A	49.538392	-67.488708	a35	Kit1	pupes	16/07/18	N2
+a36	L6	2	T007	7/8/2015	Balsam_fir	Spr2	T007_Spr2	15	A	49.392944	-68.068699	a36	Kit1		16/07/18	N2
+a37	L6	2	T008	7/7/2015	Balsam_fir	Spr3	T008_Spr3	30	A	49.23949	-68.597442	a37	Kit1		16/07/18	N2
+a40	L6	2	T010	7/8/2015	Balsam_fir	Spr3	T010_Spr3	65	A	49.748861	-68.536682	a40	Kit1		16/07/18	N2
+a41	L6	2	T010	7/8/2015	Spruce	Bf1	T010_Bf1	1	A	49.748861	-68.536682	a41	Kit1	****	17/07/18	N3
+a45	L6	2	T013	7/18/2015	Spruce	Bf1	T013_Bf1	3	A	50.771329	-68.663839	a45	Kit1	***	17/07/18	N3
+a48	L6	2	T015	7/17/2015	Spruce	Bf1	T015_Bf1	10	A	50.089301	-67.054625	a48	Kit1	***	17/07/18	N3
+a49	L6	2	T015	7/17/2015	Spruce	Bf2	T015_Bf2	15	A	50.089301	-67.054625	a49	Kit1		17/07/18	N3
+a50	L6	2	T015	7/17/2015	Spruce	Bf3	T015_Bf3	55	A	50.089301	-67.054625	a50	Kit1		17/07/18	N3
+a52	L6	2	T017	7/18/2015	Balsam_fir	Spr1	T017_Spr1	50	A	50.394383	-68.85262	a52	Kit1		17/07/18	N3
+a53	L6	2	T017	7/18/2015	Spruce	Bf2	T017_Bf2	15	A	50.394383	-68.85262	a53	Kit1		17/07/18	N3
+a55	Foliage	2	QT1	6/24/2015	Spruce	Bf1	QT1_Bf1	25	N/A	48.19458336	-67.27085	a55	Kit1	7.7	23/04/18	N1
+a57	Foliage	2	QT2	6/18/2015	Balsam_fir	Spr3	QT2_Spr3	55	N/A	48.28358333	-67.47431668	a57	Kit1		17/07/18	N3
+a59	Foliage	2	QC3	6/18/2015	Balsam_fir	Spr1	QC3_Spr1	45	N/A	48.2680333	-67.44481665	a59	Kit1		17/07/18	N3
+a60	Foliage	2	QC3	6/18/2015	Balsam_fir	Spr2	QC3_Spr2	45	N/A	48.2680333	-67.44481665	a60	Kit1		17/07/18	N3
+a61	Foliage	2	QC3	6/18/2015	Spruce	Bf1	QC3_Bf1	5	N/A	48.2680333	-67.44481665	a61	Kit1		17/07/18	N3
+a62	Foliage	2	QC3	6/18/2015	Spruce	Bf3	QC3_Bf3	5	N/A	48.2680333	-67.44481665	a62	Kit1		17/07/18	N3
+a63	Foliage	2	NL1	30/06/2015	Balsam_fir	Spr2	NL1_Spr2	50	N/A	53.30695	-60.17443	a63	Kit1		17/07/18	N3
+a64	Foliage	2	NL1	30/06/2015	Spruce	Bf1	NL1_Bf1	50	N/A	53.30695	-60.17443	a64	Kit1		17/07/18	N3
+a65	Foliage	2	NL2	3/7/2015	Balsam_fir	Spr3	NL2_Spr3	50	N/A	53.38794	-60.41273	a65	Kit1		17/07/18	N3
+a67	Foliage	2	NL3	3/7/2015	Balsam_fir	Spr2	NL3_Spr2	50	N/A	53.33703	-60.19949	a67	Kit1		17/07/18	N3
+a68	Foliage	2	NL3	3/7/2015	Balsam_fir	Spr3	NL3_Spr3	50	N/A	53.33703	-60.19949	a68	Kit1		17/07/18	N3
+a69	Foliage	2	NL3	3/7/2015	Spruce	Bf1	NL3_Bf1	50	N/A	53.33703	-60.19949	a69	Kit1		17/07/18	N3
+a70	Foliage	2	NL3	3/7/2015	Spruce	Bf3	NL3_Bf3	50	N/A	53.33703	-60.19949	a70	Kit1		17/07/18	N3
+a71	Foliage	2	NL4	3/7/2015	Balsam_fir	Spr2	NL4_Spr2	50	N/A	53.27735	-60.49179	a71	Kit1		17/07/18	N4
+a72	Foliage	2	NL4	3/7/2015	Spruce	Bf1	NL4_Bf1	50	N/A	53.27735	-60.49179	a72	Kit1		17/07/18	N4
+a74	Foliage	2	NL5	9/7/2015	Balsam_fir	Spr1	NL5_Spr1	50	N/A	53.28057	-60.62067	a74	Kit1		17/07/18	N4
+a75	Foliage	2	NL5	9/7/2015	Spruce	Bf1	NL5_Bf1	50	N/A	53.28057	-60.62067	a75	Kit1		17/07/18	N4
+a76	Foliage	2	NL5	9/7/2015	Spruce	Bf2	NL5_Bf2	50	N/A	53.28057	-60.62067	a76	Kit1		17/07/18	N4
+a77	Foliage	2	E1	7/11/2015	Spruce	Bf3	E1_Bf3	65	N/A	49.351164	-67.834043	a77	Kit1		17/07/18	N4
+a78	Foliage	2	T002	7/5/2015	Spruce	Bf3	T002_Bf3	30	N/A	49.282723	-69.530557	a78	Kit1		17/07/18	N4
+a79	Foliage	2	T003	7/5/2015	Spruce	Bf2	T003_Bf2	5	N/A	49.645677	-69.83582	a79	Kit1		17/07/18	N4
+a80	Foliage	2	T006X	7/17/2015	Spruce	Bf2	T006X_Bf2	3	N/A	49.538392	-67.488708	a80	Kit1		17/07/18	N4
+a81	Foliage	2	T006X	7/17/2015	Spruce	Bf3	T006X_Bf3	2	N/A	49.538392	-67.488708	a81	Kit1		17/07/18	N4
+a83	Foliage	2	T007	7/8/2015	Balsam_fir	Spr3	T007_Spr3	25	N/A	49.392944	-68.068699	a83	Kit1	maybe combined with 84	17/07/18	N4
+a84	Foliage	2	T007	7/8/2015	Spruce	Bf3	T007_Bf3	25	N/A	49.392944	-68.068699	a84	Kit1	maybe combined with 83	17/07/18	N4
+a85	Foliage	2	T008	7/7/2015	Balsam_fir	Spr3	T008_Spr3	30	N/A	49.23949	-68.597442	a85	Kit1		17/07/18	N4
+a86	Foliage	2	T009	7/7/2015	Balsam_fir	Spr3	T009_Spr3	20	N/A	49.611703	-69.075353	a86	Kit1		17/07/18	N4
+a87	Foliage	2	T010	7/8/2015	Balsam_fir	Spr2	T010_Spr2	3	N/A	49.748861	-68.536682	a87	Kit1		17/07/18	N4
+a88	Foliage	2	T010	7/8/2015	Spruce	Bf2	T010_Bf2	5	N/A	49.748861	-68.536682	a88	Kit1		17/07/18	N4
+a89	Foliage	2	T011X	7/15/2015	Balsam_fir	Spr2	T011X_Spr2	5	N/A	49.89622	-68.197646	a89	Kit1		17/07/18	N4
+a90	Foliage	2	T012X	7/15/2015	Balsam_fir	Spr3	T012X_Spr3	3	N/A	50.229951	-68.235794	a90	Kit1		17/07/18	N4
+a91	Foliage	2	T012X	7/15/2015	Spruce	Bf2	T012X_Bf2	3	N/A	50.229951	-68.235794	a91	Kit1		17/07/18	N4
+a92	Foliage	2	T012X	7/15/2015	Spruce	Bf3	T012X_Bf3	20	N/A	50.229951	-68.235794	a92	Kit1		17/07/18	N4
+a93	Foliage	2	T013	7/18/2015	Spruce	Bf3	T013_Bf3	3	N/A	50.771329	-68.663839	a93	Kit1		17/07/18	N4
+a94	Foliage	2	T015	7/17/2015	Balsam_fir	Spr3	T015_Spr3	35	N/A	50.089301	-67.054625	a94	Kit1		17/07/18	N4
+a95	Foliage	2	T017	7/18/2015	Balsam_fir	Spr3	T017_Spr3	10	N/A	50.394383	-68.85262	a95	Kit1		17/07/18	N4
+b01	L6	2	NL1	30/06/2015	Spruce	Bf2	NL1_Bf2	30	A	53.30695	-60.17443	b01	Kit2		18/07/18	N5
+b02	L6	2	NL1	30/06/2015	Balsam_fir	Spr2	NL1_Spr2	50	A	53.30695	-60.17443	b02	Kit2		18/07/18	N5
+b04	L6	2	NL2	3/7/2015	Balsam_fir	Spr2	NL2_Spr2	50	A	53.38794	-60.41273	b04	Kit2		18/07/18	N5
+b05	L6	2	NL3	3/7/2015	Spruce	Bf3	NL3_Bf3	70	A	53.33703	-60.19949	b05	Kit2		18/07/18	N5
+b06	L6	2	NL3	3/7/2015	Balsam_fir	Spr2	NL3_Spr2	70	A	53.33703	-60.19949	b06	Kit2		18/07/18	N5
+b07	L6	2	NL4	3/7/2015	Balsam_fir	Spr2	NL4_Spr2	70	A	53.27735	-60.49179	b07	Kit2		18/07/18	N5
+b08	L6	2	NL5	9/7/2015	Spruce	Bf3	NL5_Bf3	30	A	53.28057	-60.62067	b08	Kit2		18/07/18	N5
+b09	L6	2	QT2	6/18/2015	Spruce	Bf2	QT2_Bf2	25	A	48.28358333	-67.47431668	b09	Kit2		18/07/18	N5
+b10	L6	2	QT2	6/18/2015	Balsam_fir	Spr2	QT2_Spr2	25	A	48.28358333	-67.47431668	b10	Kit2		18/07/18	N5
+b11	L6	2	QT3	6/18/2015	Balsam_fir	Spr1	QT3_Spr1	55	A	48.24339998	-67.46229996	b11	Kit2		18/07/18	N5
+b12	L6	2	QT3	6/18/2015	Balsam_fir	Spr2	QT3_Spr2	15	A	48.24339998	-67.46229996	b12	Kit2		18/07/18	N5
+b13	L6	2	QC1	6/18/2015	Balsam_fir	Spr5	QC1_Spr5	5	A	48.19141667	-67.26413333	b13	Kit2		18/07/18	N5
+b14	L6	2	QC2	6/18/2015	Spruce	Bf2	QC2_Bf2	45	A	48.2852333	-67.42145	b14	Kit2		18/07/18	N5
+b15	L6	2	QC3	6/18/2015	Balsam_fir	Spr1	QC3_Spr1	45	A	48.2680333	-67.44481665	b15	Kit2		18/07/18	N5
+b16	L6	2	QC3	6/18/2015	Balsam_fir	Spr3	QC3_Spr3	45	A	48.2680333	-67.44481665	b16	Kit2		18/07/18	N5
+b17	L6	2	NL1	30/06/2015	Balsam_fir	Spr1	NL1_Spr1	50	A	53.30695	-60.17443	b17	Kit2		18/07/18	N5
+b19	L6	2	NL5	9/7/2015	Balsam_fir	Spr1	NL5_Spr1	10	A	53.28057	-60.62067	b19	Kit2		18/07/18	N5
+b20	L6	2	NL5	9/7/2015	Spruce	Bf1	NL5_Bf1	30	A	53.28057	-60.62067	b20	Kit2		18/07/18	N5
+b21	L6	2	E1	7/11/2015	Balsam_fir	Spr1	E1_Spr1	80	A	49.351164	-67.834043	b21	Kit2		18/07/18	N5
+b22	L6	2	E1	7/11/2015	Balsam_fir	Spr2	E1_Spr2	70	A	49.351164	-67.834043	b22	Kit2		18/07/18	N5
+b23	L6	2	E1	7/11/2015	Spruce	Bf2	E1_Bf2	50	A	49.351164	-67.834043	b23	Kit2		18/07/18	N5
+b24	L6	2	T002	7/5/2015	Spruce	Bf3	T002_Bf3	30	A	49.282723	-69.530557	b24	Kit2		18/07/18	N5
+b25	L6	2	T003	7/5/2015	Balsam_fir	Spr3	T003_Spr3	15	A	49.645677	-69.83582	b25	Kit2		18/07/18	N5
+b26	L6	2	T003	7/5/2015	Spruce	Bf1	T003_Bf1	20	A	49.645677	-69.83582	b26	Kit2	*****	18/07/18	N6
+b27	L6	2	T003	7/5/2015	Spruce	Bf3	T003_Bf3	15	A	49.645677	-69.83582	b27	Kit2		18/07/18	N6
+b30	L6	2	T007	7/8/2015	Balsam_fir	Spr3	T007_Spr3	25	A	49.392944	-68.068699	b30	Kit2		18/07/18	N6
+b31	L6	2	T007	7/8/2015	Spruce	Bf1	T007_Bf1	35	A	49.392944	-68.068699	b31	Kit2	****	18/07/18	N6
+b32	L6	2	T007	7/8/2015	Spruce	Bf3	T007_Bf3	25	A	49.392944	-68.068699	b32	Kit2		18/07/18	N6
+b33	L6	2	T008	7/7/2015	Spruce	Bf2	T008_Bf2	30	A	49.23949	-68.597442	b33	Kit2		18/07/18	N6
+b35	L6	2	T009	7/7/2015	Balsam_fir	Spr3	T009_Spr3	20	A	49.611703	-69.075353	b35	Kit2		18/07/18	N6
+b36	L6	2	T009	7/7/2015	Spruce	Bf3	T009_Bf3	25	A	49.611703	-69.075353	b36	Kit2		18/07/18	N6
+b37	L6	2	T010	7/8/2015	Balsam_fir	Spr1	T010_Spr1	5	A	49.748861	-68.536682	b37	Kit2		18/07/18	N6
+b38	L6	2	T010	7/8/2015	Balsam_fir	Spr2	T010_Spr2	3	A	49.748861	-68.536682	b38	Kit2		18/07/18	N6
+b39	L6	2	T011X	7/15/2015	Balsam_fir	Spr3	T011X_Spr3	10	A	49.89622	-68.197646	b39	Kit2		18/07/18	N6
+b41	L6	2	T012X	7/15/2015	Balsam_fir	Spr1	T012X_Spr1	5	A	50.229951	-68.235794	b41	Kit2		18/07/18	N6
+b42	L6	2	T012X	7/15/2015	Balsam_fir	Spr2	T012X_Spr2	3	A	50.229951	-68.235794	b42	Kit2		18/07/18	N6
+b43	L6	2	T012X	7/15/2015	Balsam_fir	Spr3	T012X_Spr3	3	A	50.229951	-68.235794	b43	Kit2		18/07/18	N6
+b44	L6	2	T012X	7/15/2015	Spruce	Bf1	T012X_Bf1	2	A	50.229951	-68.235794	b44	Kit2		18/07/18	N6
+b45	L6	2	T012X	7/15/2015	Spruce	Bf2	T012X_Bf2	3	A	50.229951	-68.235794	b45	Kit2		18/07/18	N6
+b46	L6	2	T013	7/18/2015	Balsam_fir	Spr2	T013_Spr2	5	A	50.771329	-68.663839	b46	Kit2		18/07/18	N6
+b47	L6	2	T013	7/18/2015	Balsam_fir	Spr3	T013_Spr3	10	A	50.771329	-68.663839	b47	Kit2		18/07/18	N6
+b48	L6	2	T015	7/17/2015	Balsam_fir	Spr1	T015_Spr1	40	A	50.089301	-67.054625	b48	Kit2		18/07/18	N6
+b50	L6	2	T016	7/17/2015	Spruce	Bf3	T016_Bf3	45	A	50.309223	-67.402817	b50	Kit2		18/07/18	N6
+b51	L6	2	T017	7/18/2015	Balsam_fir	Spr3	T017_Spr3	10	A	50.394383	-68.85262	b51	Kit2		20/07/18	N7
+b52	L6	2	T017	7/18/2015	Spruce	Bf1	T017_Bf1	10	A	50.394383	-68.85262	b52	Kit2		20/07/18	N7
+b53	Foliage	2	QT1	6/24/2015	Balsam_fir	Spr2	QT1_Spr2	5	N/A	48.19458336	-67.27085	b53	Kit2		20/07/18	N7
+b54	Foliage	2	QT1	6/24/2015	Balsam_fir	Spr3	QT1_Spr3	5	N/A	48.19458336	-67.27085	b54	Kit2		20/07/18	N7
+b55	Foliage	2	QT2	6/18/2015	Spruce	Bf1	QT2_Bf1	25	N/A	48.28358333	-67.47431668	b55	Kit2		20/07/18	N7
+b56	Foliage	2	QT2	6/18/2015	Spruce	Bf2	QT2_Bf2	25	N/A	48.28358333	-67.47431668	b56	Kit2		20/07/18	N7
+b57	Foliage	2	QT3	6/18/2015	Balsam_fir	Spr1	QT3_Spr1	55	N/A	48.24339998	-67.46229996	b57	Kit2		20/07/18	N7
+b58	Foliage	2	QT3	6/18/2015	Spruce	Bf1	QT3_Bf1	15	N/A	48.24339998	-67.46229996	b58	Kit2		20/07/18	N7
+b59	Foliage	2	QT3	6/18/2015	Balsam_fir	Spr2	QT3_Spr2	15	N/A	48.24339998	-67.46229996	b59	Kit2		20/07/18	N7
+b60	Foliage	2	QC1	6/18/2015	Balsam_fir	Spr2	QC1_Spr2	55	N/A	48.19141667	-67.26413333	b60	Kit2		20/07/18	N7
+b61	Foliage	2	QC1	6/18/2015	Balsam_fir	Spr3	QC1_Spr3	5	N/A	48.19141667	-67.26413333	b61	Kit2		20/07/18	N7
+b62	Foliage	2	QC1	6/18/2015	Balsam_fir	Spr5	QC1_Spr5	5	N/A	48.19141667	-67.26413333	b62	Kit2		20/07/18	N7
+b63	Foliage	2	QC2	6/18/2015	Spruce	Bf1	QC2_Bf1	5	N/A	48.2852333	-67.42145	b63	Kit2		20/07/18	N7
+b64	Foliage	2	QC2	6/18/2015	Balsam_fir	Spr1	QC2_Spr1	45	N/A	48.2852333	-67.42145	b64	Kit2		20/07/18	N7
+b65	Foliage	2	QC2	6/18/2015	Spruce	Bf4	QC2_Bf4	45	N/A	48.2852333	-67.42145	b65	Kit2		20/07/18	N7
+b66	Foliage	2	NL1	30/06/2015	Balsam_fir	Spr1	NL1_Spr1	50	N/A	53.30695	-60.17443	b66	Kit2		20/07/18	N7
+b67	Foliage	2	NL1	30/06/2015	Spruce	Bf2	NL1_Bf2	50	N/A	53.30695	-60.17443	b67	Kit2		20/07/18	N7
+b68	Foliage	2	NL2	3/7/2015	Balsam_fir	Spr2	NL2_Spr2	50	N/A	53.38794	-60.41273	b68	Kit2		20/07/18	N7
+b71	Foliage	2	NL3	3/7/2015	Balsam_fir	Spr1	NL3_Spr1	50	N/A	53.33703	-60.19949	b71	Kit2		20/07/18	N7
+b72	Foliage	2	NL4	3/7/2015	Balsam_fir	Spr1	NL4_Spr1	50	N/A	53.27735	-60.49179	b72	Kit2		20/07/18	N7
+b73	Foliage	2	NL4	3/7/2015	Spruce	Bf2	NL4_Bf2	50	N/A	53.27735	-60.49179	b73	Kit2		20/07/18	N7
+b74	Foliage	2	NL5	9/7/2015	Spruce	Bf3	NL5_Bf3	30	N/A	53.28057	-60.62067	b74	Kit2		20/07/18	N7
+b75	Foliage	2	E1	7/11/2015	Balsam_fir	Spr2	E1_Spr2	70	N/A	49.351164	-67.834043	b75	Kit2		20/07/18	N7
+b76	Foliage	2	T001	7/5/2015	Spruce	Bf3	T001_Bf3	5	N/A	48.959729	-69.192473	b76	Kit2		20/07/18	N8
+b77	Foliage	2	T002	7/5/2015	Spruce	Bf2	T002_Bf2	30	N/A	49.282723	-69.530557	b77	Kit2		20/07/18	N8
+b78	Foliage	2	T003	7/5/2015	Balsam_fir	Spr2	T003_Spr2	15	N/A	49.645677	-69.83582	b78	Kit2		20/07/18	N8
+b79	Foliage	2	T003	7/5/2015	Spruce	Bf3	T003_Bf3	15	N/A	49.645677	-69.83582	b79	Kit2		20/07/18	N8
+b80	Foliage	2	T006X	7/17/2015	Balsam_fir	Spr2	T006X_Spr2	5	N/A	49.538392	-67.488708	b80	Kit2		20/07/18	N8
+b81	Foliage	2	T008	7/7/2015	Balsam_fir	Spr2	T008_Spr2	35	N/A	49.23949	-68.597442	b81	Kit2		20/07/18	N8
+b82	Foliage	2	T008	7/7/2015	Spruce	Bf2	T008_Bf2	30	N/A	49.23949	-68.597442	b82	Kit2		20/07/18	N8
+b83	Foliage	2	T008	7/7/2015	Spruce	Bf3	T008_Bf3	40	N/A	49.23949	-68.597442	b83	Kit2		20/07/18	N8
+b84	Foliage	2	T009	7/7/2015	Balsam_fir	Spr2	T009_Spr2	20	N/A	49.611703	-69.075353	b84	Kit2		20/07/18	N8
+b85	Foliage	2	T009	7/7/2015	Spruce	Bf3	T009_Bf3	25	N/A	49.611703	-69.075353	b85	Kit2		20/07/18	N8
+b86	Foliage	2	T010	7/8/2015	Spruce	Bf3	T010_Bf3	3	N/A	49.748861	-68.536682	b86	Kit2		20/07/18	N8
+b87	Foliage	2	T011X	7/15/2015	Balsam_fir	Spr3	T011X_Spr3	10	N/A	49.89622	-68.197646	b87	Kit2		20/07/18	N8
+b88	Foliage	2	T012X	7/15/2015	Balsam_fir	Spr2	T012X_Spr2	3	N/A	50.229951	-68.235794	b88	Kit2		20/07/18	N8
+b89	Foliage	2	T013	7/18/2015	Spruce	Bf2	T013_Bf2	3	N/A	50.771329	-68.663839	b89	Kit2		20/07/18	N8
+b90	Foliage	2	T015	7/17/2015	Spruce	Bf2	T015_Bf2	15	N/A	50.089301	-67.054625	b90	Kit2		20/07/18	N8
+b91	Foliage	2	T016	7/17/2015	Balsam_fir	Spr2	T016_Spr2	poscontrol	N/A	50.309223	-67.402817	b91	Kit2		20/07/18	N8
+b93	Foliage	2	T017	7/18/2015	Balsam_fir	Spr2	T017_Spr2	45	N/A	50.394383	-68.85262	b93	Kit2		20/07/18	N8
+b94	Foliage	2	T017	7/18/2015	Spruce	Bf2	T017_Bf2	15	N/A	50.394383	-68.85262	b94	Kit2		20/07/18	N8
+b95	Foliage	2	T017	7/18/2015	Spruce	Bf3	T017_Bf3	15	N/A	50.394383	-68.85262	b95	Kit2		20/07/18	N8
+c01	L6	2	NL2	3/7/2015	Balsam_fir	Spr3	NL2_Spr3	70	A	53.38794	-60.41273	c01	Kit3		23/07/18	N9
+c02	L6	2	NL3	3/7/2015	Balsam_fir	Spr3	NL3_Spr3	70	A	53.33703	-60.19949	c02	Kit3		23/07/18	N9
+c03	L6	2	NL4	3/7/2015	Spruce	Bf2	NL4_Bf2	70	A	53.27735	-60.49179	c03	Kit3		23/07/18	N9
+c05	L6	2	NL4	3/7/2015	Balsam_fir	Spr3	NL4_Spr3	70	A	53.27735	-60.49179	c05	Kit3		23/07/18	N9
+c06	L6	2	NL5	9/7/2015	Spruce	Bf2	NL5_Bf2	30	A	53.28057	-60.62067	c06	Kit3		23/07/18	N9
+c07	L6	2	NL5	9/7/2015	Balsam_fir	Spr3	NL5_Spr3	10	A	53.28057	-60.62067	c07	Kit3		23/07/18	N9
+c08	L6	2	QT1	6/24/2015	Balsam_fir	Spr1	QT1_Spr1	15	A	48.19458336	-67.27085	c08	Kit3		23/07/18	N9
+c09	L6	2	QT1	6/24/2015	Balsam_fir	Spr2	QT1_Spr2	5	A	48.19458336	-67.27085	c09	Kit3		23/07/18	N9
+c10	L6	2	QT3	6/18/2015	Spruce	Bf3	QT3_Bf3	15	A	48.24339998	-67.46229996	c10	Kit3		23/07/18	N9
+c11	L6	2	QT3	6/18/2015	Balsam_fir	Spr3	QT3_Spr3	35	A	48.24339998	-67.46229996	c11	Kit3		23/07/18	N9
+c12	L6	2	QC1	6/18/2015	Balsam_fir	Spr1	QC1_Spr1	5	A	48.19141667	-67.26413333	c12	Kit3		23/07/18	N9
+c13	L6	2	QC1	6/18/2015	Balsam_fir	Spr2	QC1_Spr2	55	A	48.19141667	-67.26413333	c13	Kit3		23/07/18	N9
+c14	L6	2	QC2	6/18/2015	Spruce	Bf1	QC2_Bf1	5	A	48.2852333	-67.42145	c14	Kit3		23/07/18	N9
+c15	L6	2	QC2	6/18/2015	Spruce	Bf3	QC2_Bf3	25	A	48.2852333	-67.42145	c15	Kit3		23/07/18	N9
+c16	L6	2	QC2	6/18/2015	Balsam_fir	Spr2	QC2_Spr2	25	A	48.2852333	-67.42145	c16	Kit3		23/07/18	N9
+c17	L6	2	QC2	6/18/2015	Spruce	Bf4	QC2_Bf4	45	A	48.2852333	-67.42145	c17	Kit3		23/07/18	N9
+c18	L6	2	NL2	3/7/2015	Balsam_fir	Spr1	NL2_Spr1	50	A	53.38794	-60.41273	c18	Kit3		23/07/18	N9
+c19	L6	2	NL4	3/7/2015	Balsam_fir	Spr1	NL4_Spr1	70	A	53.27735	-60.49179	c19	Kit3		23/07/18	N9
+c20	L6	2	E1	7/11/2015	Spruce	Bf1	E1_Bf1	55	A	49.351164	-67.834043	c20	Kit3		23/07/18	N9
+c21	L6	2	T001	7/5/2015	Spruce	Bf2	T001_Bf2	5	A	48.959729	-69.192473	c21	Kit3		23/07/18	N9
+c22	L6	2	T001	7/5/2015	Spruce	Bf3	T001_Bf3	5	A	48.959729	-69.192473	c22	Kit3		23/07/18	N9
+c23	L6	2	T002	7/5/2015	Balsam_fir	Spr1	T002_Spr1	30	A	49.282723	-69.530557	c23	Kit3		23/07/18	N9
+c24	L6	2	T002	7/5/2015	Spruce	Bf2	T002_Bf2	30	A	49.282723	-69.530557	c24	Kit3		23/07/18	N9
+c25	L6	2	T003	7/5/2015	Balsam_fir	Spr1	T003_Spr1	30	A	49.645677	-69.83582	c25	Kit3		23/07/18	N10
+c26	L6	2	T007	7/8/2015	Balsam_fir	Spr1	T007_Spr1	10	A	49.392944	-68.068699	c26	Kit3		23/07/18	N10
+c27	L6	2	T007	7/8/2015	Spruce	Bf2	T007_Bf2	35	A	49.392944	-68.068699	c27	Kit3		23/07/18	N10
+c28	L6	2	T008	7/7/2015	Balsam_fir	Spr1	T008_Spr1	20	A	49.23949	-68.597442	c28	Kit3		23/07/18	N10
+c29	L6	2	T008	7/7/2015	Balsam_fir	Spr2	T008_Spr2	35	A	49.23949	-68.597442	c29	Kit3		23/07/18	N10
+c30	L6	2	T009	7/7/2015	Balsam_fir	Spr1	T009_Spr1	20	A	49.611703	-69.075353	c30	Kit3		23/07/18	N10
+c31	L6	2	T009	7/7/2015	Spruce	Bf1	T009_Bf1	15	A	49.611703	-69.075353	c31	Kit3		23/07/18	N10
+c32	L6	2	T009	7/7/2015	Spruce	Bf2	T009_Bf2	50	A	49.611703	-69.075353	c32	Kit3		23/07/18	N10
+c33	L6	2	T010	7/8/2015	Spruce	Bf2	T010_Bf2	5	A	49.748861	-68.536682	c33	Kit3		23/07/18	N10
+c34	L6	2	T010	7/8/2015	Spruce	Bf3	T010_Bf3	3	A	49.748861	-68.536682	c34	Kit3		23/07/18	N10
+c36	L6	2	T013	7/18/2015	Balsam_fir	Spr1	T013_Spr1	60	A	50.771329	-68.663839	c36	Kit3		23/07/18	N10
+c37	L6	2	T013	7/18/2015	Spruce	Bf2	T013_Bf2	3	A	50.771329	-68.663839	c37	Kit3		23/07/18	N10
+c40	L6	2	T016	7/17/2015	Balsam_fir	Spr2	T016_Spr2	poscontrol	A	50.309223	-67.402817	c40	Kit3		23/07/18	N10
+c41	L6	2	T016	7/17/2015	Balsam_fir	Spr3	T016_Spr3	20	A	50.309223	-67.402817	c41	Kit3		23/07/18	N10
+c42	L6	2	T017	7/18/2015	Balsam_fir	Spr2	T017_Spr2	45	A	50.394383	-68.85262	c42	Kit3		23/07/18	N10
+c43	Foliage	2	QT1	6/24/2015	Balsam_fir	Spr1	QT1_Spr1	15	N/A	48.19458336	-67.27085	c43	Kit3		1/8/2018	N11
+c44	Foliage	2	QT2	6/18/2015	Balsam_fir	Spr1	QT2_Spr1	15	N/A	48.28358333	-67.47431668	c44	Kit3		1/8/2018	N11
+c45	Foliage	2	QT2	6/18/2015	Spruce	Bf3	QT2_Bf3	15	N/A	48.28358333	-67.47431668	c45	Kit3		1/8/2018	N11
+c46	Foliage	2	QT3	6/18/2015	Spruce	Bf2	QT3_Bf2	5	N/A	48.24339998	-67.46229996	c46	Kit3		1/8/2018	N11
+c47	Foliage	2	QT3	6/18/2015	Balsam_fir	Spr3	QT3_Spr3	35	N/A	48.24339998	-67.46229996	c47	Kit3		1/8/2018	N11
+c48	Foliage	2	QC1	6/18/2015	Balsam_fir	Spr1	QC1_Spr1	5	N/A	48.19141667	-67.26413333	c48	Kit3		1/8/2018	N11
+c49	Foliage	2	QC1	6/18/2015	Balsam_fir	Spr4	QC1_Spr4	95	N/A	48.19141667	-67.26413333	c49	Kit3		1/8/2018	N11
+c50	Foliage	2	QC2	6/18/2015	Spruce	Bf2	QC2_Bf2	45	N/A	48.2852333	-67.42145	c50	Kit3		1/8/2018	N11
+c51	Foliage	2	QC2	6/18/2015	Spruce	Bf3	QC2_Bf3	25	N/A	48.2852333	-67.42145	c51	Kit3		1/8/2018	N11
+c52	Foliage	2	QC2	6/18/2015	Balsam_fir	Spr2	QC2_Spr2	25	N/A	48.2852333	-67.42145	c52	Kit3		1/8/2018	N11
+c53	Foliage	2	QC3	6/18/2015	Balsam_fir	Spr3	QC3_Spr3	45	N/A	48.2680333	-67.44481665	c53	Kit3		1/8/2018	N11
+c54	Foliage	2	QC3	6/18/2015	Spruce	Bf2	QC3_Bf2	65	N/A	48.2680333	-67.44481665	c54	Kit3		1/8/2018	N11
+c55	Foliage	2	NL2	3/7/2015	Balsam_fir	Spr1	NL2_Spr1	50	N/A	53.38794	-60.41273	c55	Kit3		1/8/2018	N11
+c56	Foliage	2	NL3	3/7/2015	Spruce	Bf2	NL3_Bf2	50	N/A	53.33703	-60.19949	c56	Kit3		1/8/2018	N11
+c57	Foliage	2	NL4	3/7/2015	Balsam_fir	Spr3	NL4_Spr3	50	N/A	53.27735	-60.49179	c57	Kit3		1/8/2018	N11
+c58	Foliage	2	NL5	9/7/2015	Balsam_fir	Spr2	NL5_Spr2	30	N/A	53.28057	-60.62067	c58	Kit3		1/8/2018	N11
+c59	Foliage	2	NL5	9/7/2015	Balsam_fir	Spr3	NL5_Spr3	30	N/A	53.28057	-60.62067	c59	Kit3		1/8/2018	N11
+c60	Foliage	2	E1	7/11/2015	Balsam_fir	Spr3	E1_Spr3	60	N/A	49.351164	-67.834043	c60	Kit3		1/8/2018	N11
+c61	Foliage	2	E1	7/11/2015	Spruce	Bf2	E1_Bf2	50	N/A	49.351164	-67.834043	c61	Kit3		1/8/2018	N11
+c62	Foliage	2	T001	7/5/2015	Balsam_fir	Spr2	T001_Spr2	5	N/A	48.959729	-69.192473	c62	Kit3		1/8/2018	N11
+c63	Foliage	2	T001	7/5/2015	Balsam_fir	Spr3	T001_Spr3	25	N/A	48.959729	-69.192473	c63	Kit3		1/8/2018	N11
+c64	Foliage	2	T001	7/5/2015	Spruce	Bf2	T001_Bf2	5	N/A	48.959729	-69.192473	c64	Kit3		1/8/2018	N11
+c65	Foliage	2	T002	7/5/2015	Balsam_fir	Spr2	T002_Spr2	25	N/A	49.282723	-69.530557	c65	Kit3		1/8/2018	N11
+c66	Foliage	2	T002	7/5/2015	Balsam_fir	Spr3	T002_Spr3	30	N/A	49.282723	-69.530557	c66	Kit3		1/8/2018	N12
+c67	Foliage	2	T003	7/5/2015	Balsam_fir	Spr3	T003_Spr3	15	N/A	49.645677	-69.83582	c67	Kit3		1/8/2018	N12
+c68	Foliage	2	T006X	7/17/2015	Balsam_fir	Spr3	T006X_Spr3	10	N/A	49.538392	-67.488708	c68	Kit3		1/8/2018	N12
+c69	Foliage	2	T007	7/8/2015	Spruce	Bf2	T007_Bf2	35	N/A	49.392944	-68.068699	c69	Kit3		1/8/2018	N12
+c70	Foliage	2	T009	7/7/2015	Spruce	Bf2	T009_Bf2	50	N/A	49.611703	-69.075353	c70	Kit3		1/8/2018	N12
+c71	Foliage	2	T010	7/8/2015	Balsam_fir	Spr3	T010_Spr3	65	N/A	49.748861	-68.536682	c71	Kit3		1/8/2018	N12
+c72	Foliage	2	T011X	7/15/2015	Spruce	Bf2	T011X_Bf2	2	N/A	49.89622	-68.197646	c72	Kit3		1/8/2018	N12
+c73	Foliage	2	T011X	7/15/2015	Spruce	Bf3	T011X_Bf3	5	N/A	49.89622	-68.197646	c73	Kit3		1/8/2018	N12
+c74	Foliage	2	T013	7/18/2015	Balsam_fir	Spr2	T013_Spr2	5	N/A	50.771329	-68.663839	c74	Kit3		1/8/2018	N12
+c75	Foliage	2	T013	7/18/2015	Balsam_fir	Spr3	T013_Spr3	10	N/A	50.771329	-68.663839	c75	Kit3		1/8/2018	N12
+c77	Foliage	2	T015	7/17/2015	Spruce	Bf3	T015_Bf3	55	N/A	50.089301	-67.054625	c77	Kit3		1/8/2018	N12
+c78	Foliage	2	T016	7/17/2015	Balsam_fir	Spr3	T016_Spr3	20	N/A	50.309223	-67.402817	c78	Kit3		1/8/2018	N12
+c79	Foliage	2	T016	7/17/2015	Spruce	Bf3	T016_Bf3	45	N/A	50.309223	-67.402817	c79	Kit3		1/8/2018	N12
