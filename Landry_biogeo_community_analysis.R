@@ -1052,11 +1052,11 @@ vif.cca(mod.sub)
 mod.sub.step <- ordistep(mod.sub)
 plot(mod.sub.step)
 # variance partitioning on subsetted matrices
-larva.vp.sub <- varpart(larva.hell, environmentals.sub,MEM.sub,diet.sub)
-plot(larva.vp.sub)
+#larva.vp.sub <- varpart(larva.hell, environmentals.sub,MEM.sub,diet.sub)
+#plot(larva.vp.sub)
 # try with HST
-larva.vp.sub.HST <- varpart(larva.hell, environmentals.sub,MEM.sub,diet.sub,HST.num)
-plot(larva.vp.sub.HST,Xnames = (c("Environment","Spatial autocorrelation","Foliage communities","Host-tree species")),cex=1.5,cex.sub=1.5,cex.main=1.5,cex.lab=1.5,cex.axis=1.5)
+#larva.vp.sub.HST <- varpart(larva.hell, environmentals.sub,MEM.sub,diet.sub,HST.num)
+#plot(larva.vp.sub.HST,Xnames = (c("Environment","Spatial autocorrelation","Foliage communities","Host-tree species")),cex=1.5,cex.sub=1.5,cex.main=1.5,cex.lab=1.5,cex.axis=1.5)
 
 
 larva.vp.sub.HST <- varpart(vegdist(larva.hell), environmentals.sub,MEM.sub,diet.sub,HST.num)
